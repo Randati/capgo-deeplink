@@ -1,0 +1,10 @@
+{
+  "appId": "test.deeplink",
+  "appName": "deeplink",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
